@@ -1,9 +1,10 @@
-#ifndef Zaliczenie // Nagłówek
+#ifndef Zaliczenie /** Nagłówek*/
 #define Zaliczenie 
-#include <string>
-#include <iostream>
-class MySin{// klasa  MySin
-public: // Metody publiczne 
+#include <string>/** Biblioteka c++*/
+#include <iostream>/** Biblioteka C++*/
+
+class MySin{/** KLASA MY SIN*/
+public: /** Metody publiczne*/
     MySin();
     MySin(double x);
 	MySin(const MySin &obj);
@@ -11,6 +12,7 @@ public: // Metody publiczne
 	double value();
     void setX(double);
 	double getX();
-private:double mX(); // metoda prywatna 
+private:double mX();/** Metoda prywatna double mX()*/
+
 };
 #endif
