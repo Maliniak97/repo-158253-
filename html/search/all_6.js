@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['zaliczenie_9',['Zaliczenie',['../mysin_8h.html#a9284f7106c9f21737520a599341c4e23',1,'mysin.h']]]
+  ['_7emysin_10',['~MySin',['../class_my_sin.html#a21ff50b277cefaa22f98c87748f2de45',1,'MySin']]]
 ];
